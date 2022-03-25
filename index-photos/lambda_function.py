@@ -92,3 +92,4 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': 'Finished indexing LF1.'
     }
+    # trigger codepipeline
