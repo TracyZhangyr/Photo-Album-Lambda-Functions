@@ -93,3 +93,5 @@ def lambda_handler(event, context):
         'body': 'Finished indexing LF1.'
     }
     # trigger codepipeline
+    
+    # test lambda codePipeline
